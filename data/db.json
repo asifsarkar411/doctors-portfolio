@@ -1,0 +1,556 @@
+{
+  "profile": {
+    "name": "Prof. Dr. Aris Patel",
+    "nameBn": "প্রফেসর ডাঃ আরিস প্যাটেল",
+    "designation": "Senior Consultant Cardiologist & Interventional Specialist",
+    "designationBn": "সিনিয়র কনসালট্যান্ট কার্ডিওলজিস্ট এবং ইন্টারভেনশনাল বিশেষজ্ঞ",
+    "degrees": "MBBS (DMC), FCPS (Medicine), MD (Cardiology), MRCP (UK), FACC (USA)",
+    "degreesBn": "এমবিবিএস (ডিএমসি), এফসিপিএস (মেডিসিন), এমডি (কার্ডিওলজি), এমআরসিপি (ইউকে), এফএসিসি (আমেরিকা)",
+    "bmdcReg": "A-38914",
+    "experienceYears": 16,
+    "happyPatients": "15,000+",
+    "proceduresDone": "6,800+",
+    "awardsCount": "25+",
+    "photo": "/images/doctor.jpg",
+    "heroHeadline": "Compassionate, World-Class Cardiac Care & Heart Health Solutions",
+    "heroHeadlineBn": "আন্তরিক সেবা ও আধুনিক প্রযুক্তির সমন্বয়ে বিশ্বমানের হৃদরোগ চিকিৎসা",
+    "heroSubheadline": "Dedicated to providing advanced diagnostics, interventional treatments, and personalized cardiac care to help you and your loved ones live a healthy, active life.",
+    "heroSubheadlineBn": "উন্নত রোগ নির্ণয়, আধুনিক ইন্টারভেনশনাল চিকিৎসা এবং আন্তরিক সেবার মাধ্যমে আপনার ও আপনার পরিবারের সুস্থ ও সুন্দর জীবন নিশ্চিত করাই আমাদের লক্ষ্য।",
+    "shortBio": "Prof. Dr. Aris Patel is an internationally acclaimed Cardiologist with over 16 years of expertise in interventional cardiology, coronary angioplasty, pacemaker implantation, and complex heart failure management.",
+    "shortBioBn": "প্রফেসর ডাঃ আরিস প্যাটেল ১৬ বছরেরও বেশি অভিজ্ঞতাসম্পন্ন একজন প্রখ্যাত হৃদরোগ বিশেষজ্ঞ। তিনি ইন্টারভেনশনাল কার্ডিওলজি, এনজিওপ্লাস্টি, পেসমেকার প্রতিস্থাপন এবং জটিল হৃদরোগ চিকিৎসায় সিদ্ধহস্ত।",
+    "fullBio": "Prof. Dr. Aris Patel completed his MBBS from Dhaka Medical College with top academic honors. He acquired his FCPS in Internal Medicine, followed by MD in Cardiology from the National Institute of Cardiovascular Diseases (NICVD). To further elevate his skills, he pursued fellowship training at the Royal College of Physicians (London, UK) and attained the prestigious Fellow of the American College of Cardiology (FACC).\n\nOver his 16+ year career, he has successfully performed over 6,800 coronary angiograms and angioplasty (stenting) procedures, specializing in the painless trans-radial technique. He is a pioneer in primary angioplasty during acute heart attacks, saving thousands of precious lives.\n\nHe actively participates in global medical research, clinical trials, and patient awareness campaigns. He firmly believes in evidence-based medicine combined with deep empathy, providing every patient with clear explanations, ethical care, and long-term preventive guidance.",
+    "fullBioBn": "প্রফেসর ডাঃ আরিস প্যাটেল ঢাকা মেডিকেল কলেজ থেকে কৃতিত্বের সাথে এমবিবিএস সম্পন্ন করেন। পরবর্তীতে তিনি ইন্টারনাল মেডিসিনে এফসিপিএস এবং জাতীয় হৃদরোগ ইনস্টিটিউট (এনআইসিভিডি) থেকে কার্ডিওলজিতে এমডি ডিগ্রি অর্জন করেন। এরপর তিনি যুক্তরাজ্যের রয়্যাল কলেজ অব ফিজিশিয়ান্স থেকে এমআরসিপি এবং আমেরিকার মর্যাদাপূর্ণ ফেলো অব দ্য আমেরিকান কলেজ অব কার্ডিওলজি (FACC) ডিগ্রি লাভ করেন।\n\n১৬ বছরেরও বেশি কর্মজীবনে তিনি সফলভাবে ৬,৮০০ এর বেশি করোনারি এনজিওগ্রাম এবং এনজিওপ্লাস্টি (রিং পরানো) সম্পন্ন করেছেন। বিশেষ করে হাতের কব্জির মাধ্যমে ব্যথামুক্ত ট্রান্স-রেডিয়াল পদ্ধতিতে তিনি অত্যন্ত পারদর্শী। হার্ট অ্যাটাকের সময় দ্রুততম সময়ে প্রাইমারি এনজিওপ্লাস্টির মাধ্যমে তিনি হাজারো রোগীর জীবন বাঁচিয়েছেন।\n\nতিনি দেশ-বিদেশের চিকিৎসা গবেষণায় যুক্ত রয়েছেন এবং সাধারণ মানুষের মধ্যে হৃদরোগ সচেতনতা বৃদ্ধিতে নিয়মিত কাজ করছেন। আন্তরিক ব্যবহার, রোগীদের যত্নসহকারে শোনা এবং সঠিক পরামর্শ প্রদানই তাঁর চিকিৎসার মূল আদর্শ।",
+    "philosophy": "Every heartbeat matters. True healing happens when cutting-edge medical science meets genuine empathy and patient empowerment.",
+    "philosophyBn": "প্রতিটি হৃদস্পন্দন অমূল্য। আধুনিক চিকিৎসা বিজ্ঞান এবং আন্তরিক সহমর্মিতার মেলবন্ধনেই আসল আরোগ্য সম্ভব হয়।",
+    "phone": "+880 1711-002233",
+    "emergencyPhone": "+880 1999-887766",
+    "serialPhone": "+880 1811-334455",
+    "email": "dr.arispatel.cardio@gmail.com",
+    "address": "Bashundhara R/A & Dhanmondi, Dhaka, Bangladesh",
+    "addressBn": "বসুন্ধরা আ/এ এবং ধানমন্ডি, ঢাকা, বাংলাদেশ",
+    "socialLinks": {
+      "facebook": "https://facebook.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "youtube": "https://youtube.com"
+    },
+    "workHospital": "Evercare Hospital & Square Hospital, Dhaka",
+    "workHospitalBn": "এভারকেয়ার হসপিটাল ও স্কয়ার হসপিটাল, ঢাকা",
+    "visitingDays": "Saturday to Thursday",
+    "visitingDaysBn": "শনিবার হতে বৃহস্পতিবার"
+  },
+  "themeSettings": {
+    "primaryColor": "#0284c7",
+    "primaryHover": "#0369a1",
+    "accentColor": "#059669",
+    "accentHover": "#047857",
+    "fontFamily": "Inter, sans-serif",
+    "defaultTheme": "light",
+    "enableEmergencyBanner": true,
+    "bannerNotice": "Urgent Chest Pain or Cardiac Emergency? Call our 24/7 Hotline: +880 1999-887766",
+    "bannerNoticeBn": "বুকে তীব্র ব্যথা বা জরুরি হৃদরোগের প্রয়োজনে কল করুন ২৪/৭ হটলাইন: +880 ১৯৯৯-৮৮৭৭৬৬",
+    "siteTitle": "Prof. Dr. Aris Patel | Cardiologist Portfolio",
+    "siteTitleBn": "প্রফেসর ডাঃ আরিস প্যাটেল | হৃদরোগ বিশেষজ্ঞ"
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Coronary Angiogram & Angioplasty (PTCA)",
+      "titleBn": "করোনারি এনজিওগ্রাম এবং রিং পরানো (এনজিওপ্লাস্টি)",
+      "category": "Interventional Cardiology",
+      "categoryBn": "ইন্টারভেনশনাল কার্ডিওলজি",
+      "icon": "Activity",
+      "shortDesc": "Minimally invasive, painless radial approach (wrist artery) with same-day discharge and advanced drug-eluting stents.",
+      "shortDescBn": "হাতের কব্জির মাধ্যমে সম্পূর্ণ ব্যথামুক্ত আধুনিক এনজিওগ্রাম এবং বিশ্বমানের ড্রাগ-এলুটিং স্টেন্ট/রিং স্থাপন।",
+      "badge": "Signature Care",
+      "badgeBn": "বিশেষ দক্ষতা",
+      "features": [
+        "Trans-radial painless technique",
+        "Primary PCI for acute heart attack",
+        "Complex bifurcation stenting",
+        "High success rate with rapid recovery"
+      ],
+      "featuresBn": [
+        "হাতের কব্জির মাধ্যমে ব্যথামুক্ত পদ্ধতি",
+        "জরুরি হার্ট অ্যাটাকের প্রাইমারি পিসিআই",
+        "জটিল বাইফারকেশন স্টেন্টিং",
+        "দ্রুত সুস্থতা ও নিরাপদ সেবা"
+      ]
+    },
+    {
+      "id": "srv-2",
+      "title": "Permanent Pacemaker, AICD & CRT Implantation",
+      "titleBn": "স্থায়ী পেসমেকার, এআইসিডি এবং সিআরটি প্রতিস্থাপন",
+      "category": "Electrophysiology & Devices",
+      "categoryBn": "ডিভাইস ও পেসমেকার",
+      "icon": "Cpu",
+      "shortDesc": "Advanced device therapy for irregular heart rhythms (bradycardia, tachycardia) and congestive heart failure resynchronization.",
+      "shortDescBn": "অনিয়মিত হৃদস্পন্দন ও হৃদযন্ত্রের দুর্বলতার আধুনিক পেসমেকার ও সিআরটি ডিভাইস থেরাপি।",
+      "badge": "Advanced Tech",
+      "badgeBn": "উন্নত প্রযুক্তি",
+      "features": [
+        "Single & Dual Chamber Pacemakers",
+        "AICD for sudden cardiac arrest prevention",
+        "Cardiac Resynchronization Therapy (CRT-D)",
+        "Regular device telemetry & follow-up"
+      ],
+      "featuresBn": [
+        "সিঙ্গেল ও ডুয়েল চেম্বার পেসমেকার",
+        "হৃদযন্ত্রের আকস্মিক বন্ধ রোধে এআইসিডি",
+        "হার্ট ফেইলিউরে সিআরটি থেরাপি",
+        "নিয়মিত ডিভাইস চেকআপ ও টেলিমেট্রি"
+      ]
+    },
+    {
+      "id": "srv-3",
+      "title": "Comprehensive Echocardiography & Color Doppler",
+      "titleBn": "আধুনিক ইকোকার্ডিওগ্রাফি ও কালার ডপলার",
+      "category": "Diagnostic Cardiology",
+      "categoryBn": "ডায়াগনস্টিক কার্ডিওলজি",
+      "icon": "ShieldAlert",
+      "shortDesc": "High-resolution 2D/3D Transthoracic & Transesophageal Echo with tissue Doppler for precise heart function assessment.",
+      "shortDescBn": "উচ্চ ক্ষমতাসম্পন্ন আল্ট্রাসাউন্ড ইকোকার্ডিওগ্রাফির মাধ্যমে হার্টের ভালভ, পাম্পিং ক্ষমতা ও জটিলতা নির্ণয়।",
+      "badge": "Accurate Diagnosis",
+      "badgeBn": "নির্ভুল পরীক্ষা",
+      "features": [
+        "2D & 3D Echo with Strain Rate Imaging",
+        "Transesophageal Echocardiography (TEE)",
+        "Heart valve disease evaluation",
+        "Congenital heart defect screening"
+      ],
+      "featuresBn": [
+        "আধুনিক ২ডি এবং ৩ডি ইকো",
+        "ট্রান্স-ইসোফেজিয়াল ইকো (টিইই)",
+        "হার্ট ভালভের কার্যকারিতা মূল্যায়ন",
+        "জন্মগত হৃদরোগের নির্ভুল পরীক্ষা"
+      ]
+    },
+    {
+      "id": "srv-4",
+      "title": "Hypertension & Preventive Cardiology Clinic",
+      "titleBn": "উচ্চ রক্তচাপ নিয়ন্ত্রণ ও প্রতিরোধমূলক ক্লিনিক",
+      "category": "Preventive Care",
+      "categoryBn": "প্রতিরোধমূলক সেবা",
+      "icon": "HeartPulse",
+      "shortDesc": "Holistic care for resistant blood pressure, cholesterol dyslipidemia, metabolic syndrome, and lifestyle modifications.",
+      "shortDescBn": "অনিয়ন্ত্রিত উচ্চ রক্তচাপ, কোলেস্টেরল ও ডায়াবেটিস নিয়ন্ত্রণে আধুনিক ও সমন্বিত চিকিৎসা।",
+      "badge": "Long-term Health",
+      "badgeBn": "দীর্ঘমেয়াদী সুস্থতা",
+      "features": [
+        "24-Hour Ambulatory BP Monitoring (ABPM)",
+        "Lipid profiling & cardiovascular risk scoring",
+        "Personalized diet & exercise plans",
+        "Target organ protection strategies"
+      ],
+      "featuresBn": [
+        "২৪ ঘণ্টার স্বয়ংক্রিয় রক্তচাপ মনিটরিং",
+        "লিপিড প্রোফাইল ও হৃদঝুঁকি নির্ণয়",
+        "বিশেষজ্ঞ ডায়েট ও ব্যায়াম পরিকল্পনা",
+        "কিডনি ও ব্রেইন সুরক্ষার ব্যবস্থা"
+      ]
+    },
+    {
+      "id": "srv-5",
+      "title": "Heart Failure & Post-Infarct Rehabilitation",
+      "titleBn": "হার্ট ফেইলিউর চিকিৎসা ও পুনর্বাসন",
+      "category": "Specialized Clinic",
+      "categoryBn": "বিশেষ ক্লিনিক",
+      "icon": "Zap",
+      "shortDesc": "Evidence-based medical management using the latest guideline-directed medical therapy (GDMT) to restore heart strength.",
+      "shortDescBn": "হার্টের কার্যক্ষমতা হ্রাস পাওয়া রোগীদের জন্য সর্বাধুনিক মেডিকেল থেরাপি ও জীবনযাত্রার মান উন্নয়ন।",
+      "badge": "Guideline Directed",
+      "badgeBn": "গাইডলাইন ভিত্তিক",
+      "features": [
+        "Optimized GDMT medical regimens",
+        "Fluid management & dietary education",
+        "Cardiac rehabilitation protocols",
+        "Reduced hospital readmission rate"
+      ],
+      "featuresBn": [
+        "সর্বাধুনিক ঔষধ ব্যবস্থাপনা",
+        "শরীর থেকে অতিরিক্ত পানি নিয়ন্ত্রণ",
+        "পুনর্বাসন ব্যায়াম ও খাদ্যাভ্যাস",
+        "ঘন ঘন হাসপাতালে ভর্তি হ্রাস"
+      ]
+    },
+    {
+      "id": "srv-6",
+      "title": "Adult Congenital & Valvular Heart Care",
+      "titleBn": "জন্মগত হৃদরোগ ও ভালভুলার হার্ট ডিজিস কেয়ার",
+      "category": "Structural Cardiology",
+      "categoryBn": "স্ট্রাকচারাল কার্ডিওলজি",
+      "icon": "Award",
+      "shortDesc": "Diagnosis and non-surgical catheter interventions for ASD, VSD, PDA, and rheumatic heart disease.",
+      "shortDescBn": "বিনা অপারেশনে ক্যাথিটার বা ডিভাইসের সাহায্যে জন্মগত হৃদছিদ্র ও ভালভের জটিল চিকিৎসা।",
+      "badge": "Expertise",
+      "badgeBn": "বিশেষ অভিজ্ঞতা",
+      "features": [
+        "Non-surgical ASD/VSD Device Closure",
+        "Mitral & Aortic Stenosis Evaluation",
+        "Pre-operative cardiac clearance",
+        "Long-term monitoring & anticoagulation"
+      ],
+      "featuresBn": [
+        "বিনা কাটার ডিভাইসে হৃদছিদ্র বন্ধ",
+        "মাইট্রাল ও এওর্টিক ভালভ মূল্যায়ন",
+        "অপারেশনের পূর্ববর্তী কার্ডিয়াক ফিটনেস",
+        "রক্ত তরল রাখার সঠিক নিয়ন্ত্রণ"
+      ]
+    }
+  ],
+  "chambers": [
+    {
+      "id": "ch-1",
+      "name": "Evercare Hospital Dhaka",
+      "nameBn": "এভারকেয়ার হসপিটাল ঢাকা",
+      "room": "Room #402, Level 4 (OPD)",
+      "roomBn": "রুম #৪০২, ৪র্থ তলা (বহির্বিভাগ)",
+      "address": "Plot 81, Block E, Bashundhara R/A, Dhaka-1229",
+      "addressBn": "প্লট ৮১, ব্লক ই, বসুন্ধরা আ/এ, ঢাকা-১২২৯",
+      "visitingDays": "Saturday, Monday, Wednesday",
+      "visitingDaysBn": "শনিবার, সোমবার, বুধবার",
+      "visitingHours": "5:00 PM - 9:00 PM",
+      "visitingHoursBn": "বিকেল ৫:০০ - রাত ৯:০০",
+      "consultationFee": "৳ 1,500",
+      "reportReviewFee": "৳ 800",
+      "serialPhone": "+880 1711-002233",
+      "altPhone": "+880 1711-002234",
+      "facilities": [
+        "ECG & Echo on Site",
+        "AC Waiting Lounge",
+        "Wheelchair Accessible",
+        "Pharmacy",
+        "Cardiac ICU Backup"
+      ],
+      "facilitiesBn": [
+        "তাৎক্ষণিক ইসিজি ও ইকো",
+        "শীতাতপ নিয়ন্ত্রিত লাউঞ্জ",
+        "হুইলচেয়ার সুবিধা",
+        "ফার্মেসি",
+        "কার্ডিয়াক আইসিইউ ব্যাকআপ"
+      ],
+      "image": "/images/chamber1.jpg",
+      "mapEmbedUrl": "https://maps.google.com/maps?q=Evercare+Hospital+Dhaka&t=&z=15&ie=UTF8&iwloc=&output=embed"
+    },
+    {
+      "id": "ch-2",
+      "name": "Square Hospital Ltd.",
+      "nameBn": "স্কয়ার হসপিটাল লিমিটেড",
+      "room": "Chamber #308, 3rd Floor (Doctors Lounge)",
+      "roomBn": "চেম্বার #৩০৮, ৩য় তলা (ডক্টরস লাউঞ্জ)",
+      "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka-1205",
+      "addressBn": "১৮/এফ, বীর উত্তম কাজী নুরুজ্জামান সড়ক, পশ্চিম পান্থপথ, ঢাকা-১২০৫",
+      "visitingDays": "Sunday, Tuesday, Thursday",
+      "visitingDaysBn": "রবিবার, মঙ্গলবার, বৃহস্পতিবার",
+      "visitingHours": "6:00 PM - 10:00 PM",
+      "visitingHoursBn": "সন্ধ্যা ৬:০০ - রাত ১০:০০",
+      "consultationFee": "৳ 1,500",
+      "reportReviewFee": "৳ 800",
+      "serialPhone": "+880 1811-334455",
+      "altPhone": "+880 1811-334456",
+      "facilities": [
+        "Full Cardiac Diagnostics",
+        "Executive Patient Lounge",
+        "Basement Parking",
+        "Dedicated Emergency Support"
+      ],
+      "facilitiesBn": [
+        "পূর্ণাঙ্গ কার্ডিয়াক টেস্ট",
+        "এক্সিকিউটিভ পেশেন্ট লাউঞ্জ",
+        "বেসমেন্ট পার্কিং",
+        "জরুরি কার্ডিয়াক সুবিধা"
+      ],
+      "image": "/images/chamber1.jpg",
+      "mapEmbedUrl": "https://maps.google.com/maps?q=Square+Hospital+Dhaka&t=&z=15&ie=UTF8&iwloc=&output=embed"
+    },
+    {
+      "id": "ch-3",
+      "name": "Popular Diagnostic Centre (Dhanmondi)",
+      "nameBn": "পপুলার ডায়াগনস্টিক সেন্টার (ধানমন্ডি)",
+      "room": "Building #2, Room #214, 2nd Floor",
+      "roomBn": "ভবন #২, রুম #২১৪, ২য় তলা",
+      "address": "House #16, Road #2, Dhanmondi R/A, Dhaka-1205",
+      "addressBn": "বাড়ি #১৬, রোড #২, ধানমন্ডি আ/এ, ঢাকা-১২০৫",
+      "visitingDays": "Friday",
+      "visitingDaysBn": "শুক্রবার",
+      "visitingHours": "10:00 AM - 2:00 PM",
+      "visitingHoursBn": "সকাল ১০:০০ - দুপুর ২:০০",
+      "consultationFee": "৳ 1,200",
+      "reportReviewFee": "৳ 600",
+      "serialPhone": "+880 1999-887766",
+      "altPhone": "+880 1999-887767",
+      "facilities": [
+        "Pathology & Biochemistry",
+        "Holter Monitoring",
+        "Stress ECG (ETT)",
+        "Digital X-Ray"
+      ],
+      "facilitiesBn": [
+        "প্যাথলজি ও বায়োকেমিস্ট্রি",
+        "হল্টার মনিটরিং",
+        "ইটিটি (ETT) পরীক্ষা",
+        "ডিজিটাল এক্স-রে"
+      ],
+      "image": "/images/chamber1.jpg",
+      "mapEmbedUrl": "https://maps.google.com/maps?q=Popular+Diagnostic+Centre+Dhanmondi&t=&z=15&ie=UTF8&iwloc=&output=embed"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "sch-1",
+      "day": "Saturday",
+      "dayBn": "শনিবার",
+      "chamberId": "ch-1",
+      "chamberName": "Evercare Hospital Dhaka",
+      "chamberNameBn": "এভারকেয়ার হসপিটাল ঢাকা",
+      "time": "5:00 PM - 9:00 PM",
+      "timeBn": "বিকেল ৫:০০ - রাত ৯:০০",
+      "maxPatients": 25,
+      "bookedPatients": 14,
+      "status": "Available",
+      "statusBn": "বুকিং চলছে"
+    },
+    {
+      "id": "sch-2",
+      "day": "Sunday",
+      "dayBn": "রবিবার",
+      "chamberId": "ch-2",
+      "chamberName": "Square Hospital Ltd.",
+      "chamberNameBn": "স্কয়ার হসপিটাল লিমিটেড",
+      "time": "6:00 PM - 10:00 PM",
+      "timeBn": "সন্ধ্যা ৬:০০ - রাত ১০:০০",
+      "maxPatients": 25,
+      "bookedPatients": 19,
+      "status": "Available",
+      "statusBn": "বুকিং চলছে"
+    },
+    {
+      "id": "sch-3",
+      "day": "Monday",
+      "dayBn": "সোমবার",
+      "chamberId": "ch-1",
+      "chamberName": "Evercare Hospital Dhaka",
+      "chamberNameBn": "এভারকেয়ার হসপিটাল ঢাকা",
+      "time": "5:00 PM - 9:00 PM",
+      "timeBn": "বিকেল ৫:০০ - রাত ৯:০০",
+      "maxPatients": 25,
+      "bookedPatients": 8,
+      "status": "Available",
+      "statusBn": "বুকিং চলছে"
+    },
+    {
+      "id": "sch-4",
+      "day": "Tuesday",
+      "dayBn": "মঙ্গলবার",
+      "chamberId": "ch-2",
+      "chamberName": "Square Hospital Ltd.",
+      "chamberNameBn": "স্কয়ার হসপিটাল লিমিটেড",
+      "time": "6:00 PM - 10:00 PM",
+      "timeBn": "সন্ধ্যা ৬:০০ - রাত ১০:০০",
+      "maxPatients": 25,
+      "bookedPatients": 11,
+      "status": "Available",
+      "statusBn": "বুকিং চলছে"
+    },
+    {
+      "id": "sch-5",
+      "day": "Wednesday",
+      "dayBn": "বুধবার",
+      "chamberId": "ch-1",
+      "chamberName": "Evercare Hospital Dhaka",
+      "chamberNameBn": "এভারকেয়ার হসপিটাল ঢাকা",
+      "time": "5:00 PM - 9:00 PM",
+      "timeBn": "বিকেল ৫:০০ - রাত ৯:০০",
+      "maxPatients": 25,
+      "bookedPatients": 15,
+      "status": "Available",
+      "statusBn": "বুকিং চলছে"
+    },
+    {
+      "id": "sch-6",
+      "day": "Thursday",
+      "dayBn": "বৃহস্পতিবার",
+      "chamberId": "ch-2",
+      "chamberName": "Square Hospital Ltd.",
+      "chamberNameBn": "স্কয়ার হসপিটাল লিমিটেড",
+      "time": "6:00 PM - 10:00 PM",
+      "timeBn": "সন্ধ্যা ৬:০০ - রাত ১০:০০",
+      "maxPatients": 25,
+      "bookedPatients": 22,
+      "status": "Almost Full",
+      "statusBn": "প্রায় পূর্ণ"
+    },
+    {
+      "id": "sch-7",
+      "day": "Friday",
+      "dayBn": "শুক্রবার",
+      "chamberId": "ch-3",
+      "chamberName": "Popular Diagnostic Centre (Dhanmondi)",
+      "chamberNameBn": "পপুলার ডায়াগনস্টিক সেন্টার (ধানমন্ডি)",
+      "time": "10:00 AM - 2:00 PM",
+      "timeBn": "সকাল ১০:০০ - দুপুর ২:০০",
+      "maxPatients": 20,
+      "bookedPatients": 10,
+      "status": "Available",
+      "statusBn": "বুকিং চলছে"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "State-of-the-Art Consultation Suite",
+      "titleBn": "আধুনিক কনসালটেশন স্যুট ও চেম্বার",
+      "category": "Clinic",
+      "categoryBn": "চেম্বার",
+      "image": "/images/chamber1.jpg",
+      "caption": "Spacious, technologically equipped consultation chamber ensuring patient comfort, digital records, and high-tech diagnostics."
+    },
+    {
+      "id": "gal-2",
+      "title": "Keynote at World Cardiology Congress",
+      "titleBn": "বিশ্ব কার্ডিওলজি কংগ্রেসে মূল বক্তব্য উপস্থাপন",
+      "category": "Conference",
+      "categoryBn": "সম্মেলন",
+      "image": "/images/conference.jpg",
+      "caption": "Presenting groundbreaking clinical research on trans-radial angioplasty outcomes before 2,000+ international heart specialists."
+    },
+    {
+      "id": "gal-3",
+      "title": "Modern Cath Lab & Angioplasty Suite",
+      "titleBn": "আধুনিক ক্যাথ ল্যাব ও এনজিওপ্লাস্টি থিয়েটার",
+      "category": "Procedures",
+      "categoryBn": "চিকিৎসাসেবা",
+      "image": "/images/chamber1.jpg",
+      "caption": "Equipped with advanced flat-panel imaging for precise coronary stent placement and complex structural heart interventions."
+    },
+    {
+      "id": "gal-4",
+      "title": "National Healthcare Excellence Gold Award",
+      "titleBn": "জাতীয় চিকিৎসা সেবা উৎকর্ষ স্বর্ণপদক",
+      "category": "Awards",
+      "categoryBn": "পুরস্কার",
+      "image": "/images/conference.jpg",
+      "caption": "Honored with the National Healthcare Excellence Award for pioneering primary angioplasty emergency protocols."
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "10 Warning Signs of a Silent Heart Attack You Must Never Ignore",
+      "titleBn": "নীরব হার্ট অ্যাটাকের ১০টি লক্ষণ যা কখনোই অবহেলা করবেন না",
+      "category": "Cardiac Health",
+      "categoryBn": "হৃদরোগ সচেতনতা",
+      "date": "Oct 1, 2026",
+      "readTime": "5 min read",
+      "image": "/images/doctor.jpg",
+      "excerpt": "Heart attacks don't always come with dramatic chest-clutching pain. Learn how subtle signs like sudden fatigue, jaw discomfort, and unexplained breathlessness could save a life.",
+      "excerptBn": "হার্ট অ্যাটাক মানেই সবসময় তীব্র বুকে ব্যথা নয়। ক্লান্তি, চোয়ালের ব্যথা এবং অস্বাভাবিক শ্বাসকষ্টও হতে পারে বিপদের লক্ষণ। জেনে নিন এর প্রতিরোধ ও লক্ষণসমূহ।",
+      "content": "A silent heart attack (medically termed a silent myocardial infarction) occurs when blood flow to the heart muscle is severely compromised, yet the patient feels little or no characteristic chest pressure.\n\n### Subtle Signs to Watch Out For:\n1. **Unexplained Shortness of Breath:** Getting winded by minor tasks like walking up a single flight of stairs.\n2. **Discomfort in the Jaw, Neck, or Back:** Pain that radiates from the chest upward or between the shoulder blades.\n3. **Cold Sweats & Clamminess:** Breaking into a sudden cold sweat without physical exertion.\n4. **Severe Heartburn or Indigestion:** Burning sensations that fail to respond to standard antacids.\n5. **Sudden Extreme Fatigue:** An overwhelming sense of exhaustion where even simple conversations feel draining.\n\n### What Should You Do?\nIf you or your family member experience these warning signs, particularly if you have diabetes, high blood pressure, or a family history of heart disease, seek immediate emergency medical care. An immediate ECG and Troponin blood test can identify a cardiac event within minutes."
+    },
+    {
+      "id": "post-2",
+      "title": "High Blood Pressure: The Silent Killer and How to Control It Daily",
+      "titleBn": "উচ্চ রক্তচাপ: নীরব ঘাতক ও প্রতিদিন নিয়ন্ত্রণের কার্যকর উপায়",
+      "category": "Hypertension",
+      "categoryBn": "উচ্চ রক্তচাপ",
+      "date": "Sep 24, 2026",
+      "readTime": "6 min read",
+      "image": "/images/chamber1.jpg",
+      "excerpt": "Over 20% of adults in Bangladesh live with undetected hypertension. Discover evidence-backed dietary swaps, sodium limits, and medical advice to keep your heart safe.",
+      "excerptBn": "বাংলাদেশে প্রাপ্তবয়স্কদের একটি বড় অংশ অনিয়ন্ত্রিত উচ্চ রক্তচাপে ভোগেন। সোডিয়াম নিয়ন্ত্রণ, সঠিক খাদ্যাভ্যাস ও ব্যায়ামের মাধ্যমে সুস্থ থাকার পরামর্শ।",
+      "content": "Hypertension is frequently called the \"silent killer\" because it inflicts progressive damage to blood vessels, kidneys, and the heart without causing noticeable pain until a major complication arises.\n\n### Key Lifestyle Pillars:\n- **Reduce Table Salt:** Keep daily sodium intake under 5 grams (approx. one level teaspoon) including processed foods.\n- **Adopt the DASH Diet:** Rich in fruits, vegetables, lentils, whole grains, and low-fat dairy.\n- **Regular Aerobic Activity:** 30 minutes of brisk walking 5 days a week lowers systolic blood pressure by 5-8 mm Hg.\n- **Consistent Medication:** Never stop taking your prescribed anti-hypertensives without consulting your cardiologist, even if your reading appears normal."
+    },
+    {
+      "id": "post-3",
+      "title": "When Do You Really Need an Angiogram? Myths vs Medical Facts",
+      "titleBn": "কখন আসলে এনজিওগ্রাম করা প্রয়োজন? প্রচলিত ভুল ধারণা বনাম চিকিৎসা বিজ্ঞান",
+      "category": "Treatments",
+      "categoryBn": "আধুনিক চিকিৎসা",
+      "date": "Sep 15, 2026",
+      "readTime": "4 min read",
+      "image": "/images/conference.jpg",
+      "excerpt": "Many patients are anxious about having an angiogram. Learn why modern wrist-artery (radial) procedures take only 15 minutes, are virtually painless, and allow same-day return home.",
+      "excerptBn": "এনজিওগ্রাম নিয়ে অনেকের মনেই অযথা ভয় থাকে। জেনে নিন কেন আধুনিক হাতের কব্জির মাধ্যমে এনজিওগ্রাম অত্যন্ত নিরাপদ এবং ব্যথামুক্ত।",
+      "content": "A coronary angiogram remains the definitive gold standard for visualizing blockages in the arteries supplying the heart muscle.\n\n### Myth 1: An angiogram requires cutting or major surgery.\n**Fact:** A coronary angiogram is a minimally invasive diagnostic test. A miniature catheter smaller than the tip of a ballpoint pen is gently guided through the wrist artery under local anesthesia.\n\n### Myth 2: You need days of hospital admission.\n**Fact:** With modern radial access, most patients walk around within 1 hour and are safely discharged to their homes on the very same afternoon.\n\n### Who Needs an Angiogram?\nPatients with recurrent angina (chest pain during exertion), positive stress tests (ETT or Echo), or those experiencing acute coronary syndrome should undergo timely evaluation."
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt-101",
+      "serialNumber": "APT-2026-0891",
+      "patientName": "Md. Tanvir Hossain",
+      "patientPhone": "+880 1712-345678",
+      "patientEmail": "tanvir.hossain@example.com",
+      "patientAge": 52,
+      "gender": "Male",
+      "chamberId": "ch-1",
+      "chamberName": "Evercare Hospital Dhaka",
+      "appointmentDate": "2026-10-10",
+      "slot": "5:30 PM",
+      "symptoms": "Mild chest tightness upon climbing stairs, history of hypertension for 5 years.",
+      "type": "New Patient",
+      "status": "Confirmed",
+      "createdAt": "2026-10-01T10:30:00Z"
+    },
+    {
+      "id": "apt-102",
+      "serialNumber": "APT-2026-0892",
+      "patientName": "Begum Nasreen Akhter",
+      "patientPhone": "+880 1819-987654",
+      "patientEmail": "nasreen.akhter@example.com",
+      "patientAge": 46,
+      "gender": "Female",
+      "chamberId": "ch-2",
+      "chamberName": "Square Hospital Ltd.",
+      "appointmentDate": "2026-10-11",
+      "slot": "6:45 PM",
+      "symptoms": "Post-angioplasty follow-up checkup and cholesterol test report review.",
+      "type": "Report Review",
+      "status": "Pending",
+      "createdAt": "2026-10-02T08:15:00Z"
+    },
+    {
+      "id": "apt-103",
+      "serialNumber": "APT-2026-0893",
+      "patientName": "Kamrul Islam Chowdhury",
+      "patientPhone": "+880 1914-554433",
+      "patientEmail": "kamrul.chowdhury@example.com",
+      "patientAge": 61,
+      "gender": "Male",
+      "chamberId": "ch-3",
+      "chamberName": "Popular Diagnostic Centre (Dhanmondi)",
+      "appointmentDate": "2026-10-09",
+      "slot": "11:00 AM",
+      "symptoms": "Sudden palpitations and breathlessness at night. Referred for Echocardiogram.",
+      "type": "New Patient",
+      "status": "Confirmed",
+      "createdAt": "2026-10-02T12:00:00Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-201",
+      "name": "Engr. Rafiqul Bari",
+      "email": "rafiq.bari@gmail.com",
+      "phone": "+880 1715-112233",
+      "subject": "Second Opinion on Coronary Stenting",
+      "message": "Respected Doctor, my father (age 68) was advised 3 stents at a local clinic. We have the CD of his angiogram. Can we show you the angiogram CD tomorrow at Evercare Hospital?",
+      "read": false,
+      "createdAt": "2026-10-02T09:45:00Z"
+    },
+    {
+      "id": "msg-202",
+      "name": "Dr. Farzana Yasmin",
+      "email": "farzana.y@health.gov.bd",
+      "phone": "+880 1812-445566",
+      "subject": "Invitation as Guest Speaker at Annual Medical Summit",
+      "message": "Dear Professor Patel, on behalf of the Association of Physicians, we would be deeply honored if you could deliver the plenary keynote on Modern Heart Failure Interventions on Nov 15th.",
+      "read": true,
+      "createdAt": "2026-10-01T16:20:00Z"
+    }
+  ],
+  "adminAuth": {
+    "passwordHash": "$2a$10$7R6v74u8q0Y9cE5xP5L1OeH0N2sV9b8j4f6K1a2b3c4d5e6f7g8h",
+    "defaultPasswordPlain": "admin123"
+  }
+}
