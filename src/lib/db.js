@@ -4,9 +4,15 @@ import mongoose from 'mongoose';
 import bcrypt from 'bcryptjs';
 import { initialData } from '../data/initialData';
 
-// File path for local persistent storage fallback
-const DATA_DIR = path.join(process.cwd(), 'data');
+// Storage location safe for both local development and Vercel Serverless
+const isServerless = process.env.VERCEL === '1' || Boolean(process.env.AWS_LAMBDA_FUNCTION_NAME);
+const DATA_DIR = isServerless ? '/tmp/data' : path.join(process.cwd(), 'data');
 const DATA_FILE = path.join(DATA_DIR, 'db.json');
+
+// In-memory global cache fallback
+if (!global._inMemoryDb) {
+  global._inMemoryDb = JSON.parse(JSON.stringify(initialData));
+}
 
 // Ensure local data file exists
 function ensureLocalDb() {
@@ -15,10 +21,10 @@ function ensureLocalDb() {
       fs.mkdirSync(DATA_DIR, { recursive: true });
     }
     if (!fs.existsSync(DATA_FILE)) {
-      fs.writeFileSync(DATA_FILE, JSON.stringify(initialData, null, 2), 'utf-8');
+      fs.writeFileSync(DATA_FILE, JSON.stringify(global._inMemoryDb || initialData, null, 2), 'utf-8');
     }
   } catch (err) {
-    console.error('Error ensuring local DB:', err);
+    // Fail silently in read-only environments
   }
 }
 
@@ -26,24 +32,29 @@ function ensureLocalDb() {
 function readLocalDb() {
   ensureLocalDb();
   try {
-    const content = fs.readFileSync(DATA_FILE, 'utf-8');
-    return JSON.parse(content);
+    if (fs.existsSync(DATA_FILE)) {
+      const content = fs.readFileSync(DATA_FILE, 'utf-8');
+      const parsed = JSON.parse(content);
+      global._inMemoryDb = parsed;
+      return parsed;
+    }
   } catch (err) {
-    console.error('Error reading local DB, falling back to initial data:', err);
-    return JSON.parse(JSON.stringify(initialData));
+    // ignore
   }
+  return global._inMemoryDb || JSON.parse(JSON.stringify(initialData));
 }
 
 function writeLocalDb(data) {
+  global._inMemoryDb = data;
   ensureLocalDb();
   try {
     fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2), 'utf-8');
     return true;
   } catch (err) {
-    console.error('Error writing local DB:', err);
     return false;
   }
 }
+
 
 // MongoDB Atlas Mongoose Connection Caching for Next.js Serverless
 let cached = global.mongoose;
